@@ -6,6 +6,7 @@ public class Apple {
 		// TODO Auto-generated method stub
 
 		System.out.println("Asss3A 修改完成");
+		System.out.println("熱修改....");
 		
 	}
 
