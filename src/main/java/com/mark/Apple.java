@@ -5,7 +5,8 @@ public class Apple {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("A我3A");
+		System.out.println("Asss3A 修改完成");
+		
 	}
 
 }
